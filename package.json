@@ -12,7 +12,11 @@
     "dependencies": {
         "ejs": "^3.1.6",
         "express": "^4.17.1",
-        "mongoose": "^5.12.14"
+        "mark": "^0.10.0",
+        "marked": "^2.1.2",
+        "method-override": "^3.0.0",
+        "mongoose": "^5.12.14",
+        "slugify": "^1.5.3"
     },
     "devDependencies": {
         "nodemon": "^2.0.7"
